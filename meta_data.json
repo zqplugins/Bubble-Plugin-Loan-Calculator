@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "compliance",
+        "1": "data (things)",
+        "2": "technical",
+        "3": "productivity"
+    },
+    "demo_page": "https://bubble.io/page?type=page&name=interest_calculator&id=clasic-plugins&test_plugin=1666899556558x915919068195717100_current&tab=tabs-1",
+    "description": "The compound interest calculator lets you see how your money can grow using interest compounding.\n\nSet the amount, rate, compund (Daily, Weekly, Monthly, Quarterly,Half Yearly, Yearly) and time. \n\nThen you will get the total amount.\n\nLightweight plugin as all functions are custom made, no libraries to fetch.\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1666898384281x696547421495456100/giphy%20%289%29.gif",
+    "license": "open_source",
+    "link": "https://zeroqode.com/",
+    "name": "Loan Calculator",
+    "plugin_instructions": "1 - Download the plugin\n2 - Use the Compound Calculator in actions\n3 - Set the values for its inputs, set states for result\n4 - get the states on the text on the front end"
+}

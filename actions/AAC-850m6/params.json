@@ -1,0 +1,47 @@
+{
+    "category": "plugins",
+    "display": "Compound Interest Calculator",
+    "fields": {
+        "AAD": {
+            "caption": "Principal",
+            "editor": "DynamicValue",
+            "name": "principal",
+            "rank": 0,
+            "value": "number"
+        },
+        "AAE": {
+            "caption": "From rate",
+            "editor": "DynamicValue",
+            "name": "rate",
+            "options": "",
+            "rank": 1,
+            "value": "text"
+        },
+        "AAF": {
+            "caption": "Compound",
+            "doc": "Daily, Weekly, Monthly, Quarterly,Half Yearly, Yearly",
+            "editor": "DynamicValue",
+            "name": "compound",
+            "options": "",
+            "rank": 2,
+            "value": "text"
+        },
+        "AAH": {
+            "caption": "Time",
+            "doc": "",
+            "editor": "DynamicValue",
+            "name": "time",
+            "rank": 3,
+            "value": "text"
+        }
+    },
+    "return_value": {
+        "AAG": {
+            "caption": "total",
+            "name": "total",
+            "rank": 0,
+            "value": "number"
+        }
+    },
+    "type": "server_side"
+}
